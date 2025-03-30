@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
                 ),
                 SizedBox(height: 10),
                 MessageBubble(
-                  text: 'I am doing well, How about you?',
+                  text: 'I am fine, How about you?',
                   isMe: true,
                 ),
                 SizedBox(height: 10),
